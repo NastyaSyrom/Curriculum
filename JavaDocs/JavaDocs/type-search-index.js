@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"DataItem"},{"p":"com.example.task8a","l":"HelloApplication"},{"p":"com.example.task8a","l":"HelloController"},{"p":"model","l":"Plan"},{"p":"DAO","l":"TaskDAO"},{"p":"DAO","l":"TaskDAOImpl"}];updateSearchResults();
